@@ -21,7 +21,7 @@ The analysis includes:
 ## Getting Started
 1. Clone this repository to your local machine.
 2. Open the Excel file for the raw data [iPhone Data](https://github.com/Sakshi-Rani-21/IPhone-Sales-Analysis-In-Python/blob/main/Apple%20Iphone%20Data.csv).
-3. Open the file [Data Cleaning Process](https://github.com/Sakshi-Rani-21/Data-Cleaning-in-PostgreSQL/blob/main/data%20cleaning.sql) for the sql queries.
+3. Open the file [Python Script](https://github.com/Sakshi-Rani-21/IPhone-Sales-Analysis-In-Python/blob/main/iPhone%20Sales%20Analysis..ipynb) for the python code
 4. Check here the cleand data [Cleaned data](https://github.com/Sakshi-Rani-21/Data-Cleaning-in-PostgreSQL/blob/f96a7d78555143ffb0f86d6f6607d384083f4782/cleaned%20data.csv)
 
 
