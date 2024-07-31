@@ -17,7 +17,8 @@ The analysis includes:
 
 - Highest bought model by the ratings: A [bar plot](https://github.com/Sakshi-Rani-21/IPhone-Sales-Analysis-In-Python/blob/main/Number%20of%20ratings%20of%20highest%20ranked%20iPhones.png) showing number of ratings of top 10 iphones.
 - Highest bought model by the reviews: A [bar plot](https://github.com/Sakshi-Rani-21/IPhone-Sales-Analysis-In-Python/blob/main/Number%20of%20reviews%20of%20highest%20rated%20iPhones.png) showing number of reviews of top 10 iphones.
-- Relationship between discount percentage and number of ratings: A [scatter plot] () between discount percentage and number of ratings to identify the sales trend using correlation
+- Relationship between sale price and number of ratings:  A [scatter plot](https://github.com/Sakshi-Rani-21/IPhone-Sales-Analysis-In-Python/blob/main/Relationship%20between%20discount%20percentage%20and%20number%20of%20ratings.png) of sale price by the number of ratings to identify the sales trend using correlation.
+- Relationship between discount percentage and number of ratings: A [scatter plot](https://github.com/Sakshi-Rani-21/IPhone-Sales-Analysis-In-Python/blob/main/Relationship%20between%20discount%20percentage%20and%20number%20of%20ratings.png) between discount percentage and number of ratings to identify the sales trend using correlation.
 - 
 
 
