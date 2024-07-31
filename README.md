@@ -5,7 +5,7 @@ This project analyzes iPhone sales data to uncover trends and insights using Pyt
 In Data Analysis, the analyst must ensure that the data is 'clean' before doing any analysis. 'Dirty' data can lead to unreliable, inaccurate and/or misleading result
 
 The project involves the following steps:
-1.**Importing data**:Importing csv data using pthon library pandas.
+1. **Importing data**:Importing csv data using pthon library pandas.
 2. **Removing Duplicates**: Identifying and removing duplicate records from the dataset.
 3. **Standardizing Data**: Cleaning and standardizing data entries.
 4. **Handling Null or Blank Values**: Addressing missing or blank values.
