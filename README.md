@@ -5,10 +5,11 @@ This project analyzes iPhone sales data to uncover trends and insights using Pyt
 In Data Analysis, the analyst must ensure that the data is 'clean' before doing any analysis. 'Dirty' data can lead to unreliable, inaccurate and/or misleading result
 
 The project involves the following steps:
-1. **Removing Duplicates**: Identifying and removing duplicate records from the dataset.
-2. **Standardizing Data**: Cleaning and standardizing data entries.
-3. **Handling Null or Blank Values**: Addressing missing or blank values.
-4. **Visualising Data**: Data vizualisation using bar graphs and scatter plots.
+1.**Importing data**:Importing csv data using pthon library pandas.
+2. **Removing Duplicates**: Identifying and removing duplicate records from the dataset.
+3. **Standardizing Data**: Cleaning and standardizing data entries.
+4. **Handling Null or Blank Values**: Addressing missing or blank values.
+5. **Visualising Data**: Data vizualisation using bar graphs and scatter plots.
 
 
 ## Analysis
@@ -21,7 +22,11 @@ The analysis includes:
 ## Getting Started
 1. Clone this repository to your local machine.
 2. Open the Excel file for the raw data [iPhone Data](https://github.com/Sakshi-Rani-21/IPhone-Sales-Analysis-In-Python/blob/main/Apple%20Iphone%20Data.csv).
-3. Open the file [Python Script](https://github.com/Sakshi-Rani-21/IPhone-Sales-Analysis-In-Python/blob/main/iPhone%20Sales%20Analysis..ipynb) for the python code
-4. Check here the cleand data [Cleaned data](https://github.com/Sakshi-Rani-21/Data-Cleaning-in-PostgreSQL/blob/f96a7d78555143ffb0f86d6f6607d384083f4782/cleaned%20data.csv)
+3. Open [Python Script](https://github.com/Sakshi-Rani-21/IPhone-Sales-Analysis-In-Python/blob/main/iPhone%20Sales%20Analysis..ipynb) for the python code
 
+## Installation
 
+To run this project, you need to have Python installed along with the required libraries. You can install the necessary libraries using:
+
+```bash
+pip install pandas matplotlib seaborn plotly
