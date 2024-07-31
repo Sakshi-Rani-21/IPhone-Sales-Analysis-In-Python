@@ -1,4 +1,4 @@
-# iPhone Sales Analysis using Python  
+# iPhone Sales Analysis Using Python  
 This project analyzes iPhone sales data to uncover trends and insights using Python.
 
 ## Project Overview
